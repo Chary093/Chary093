@@ -28,11 +28,11 @@
 - Collaborative projects
 
 📫 **Get in Touch:**
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/veerabramachary-m-aa766b237/)
+- [Email](pardhuchary09@gmail.com)
 
 🎨 **Portfolio:**
-- [My Projects](https://github.com/your-github-username?tab=repositories)
+- [My Projects]()
 
 ⚡ **Fun Fact:**
 - I enjoy exploring new technologies and contributing to open-source projects in my free time.
