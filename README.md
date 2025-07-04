@@ -4,7 +4,7 @@
 
 🌐 **Skills:**
 - **Full Stack Web Development:** HTML, CSS, JavaScript, React
-- **Mobile App Development:** Flutter, Android
+- **Mobile App Development:** Flutter, Android, Jetpack Compose 
 - **Programming Languages:** Python, Java, C++, C
 - **Design:** UI/UX Design, Adobe XD, Figma
 - **AI/ML Development:** Beginner in AI/ML, exploring neural networks and machine learning
@@ -28,7 +28,7 @@
 - Collaborative projects
 
 📫 **Get in Touch:**
-- [LinkedIn](https://www.linkedin.com/in/veerabramachary-m-aa766b237/)
+- [LinkedIn](https://www.linkedin.com/in/veera93/)
 - [Email](pardhuchary09@gmail.com)
 
 🎨 **Portfolio:**
