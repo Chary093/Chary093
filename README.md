@@ -1,6 +1,6 @@
-# 💻 Chary | Junior Year CSE Student
+# 💻 Chary | 
 
-👨‍🎓 **Junior Year Computer Science Engineering Student**
+👨‍🎓 ** Tech Engineer*
 
 🌐 **Skills:**
 - **Full Stack Web Development:** HTML, CSS, JavaScript, React
