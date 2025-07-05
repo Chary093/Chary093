@@ -12,7 +12,7 @@
 📚 **Education:**
 - **Bachelor of Technology in Computer Science Engineering**
   - Jawaharlal Nehru Technological University
-  - 2021 - Present
+  - 2021 - 2025
 
 🔭 **Current Projects:**
 - **Real-Time Chat Application:** Developing a real-time chat app using Flutter and Firebase.
